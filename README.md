@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Aristide Kamara
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&desc=API%20Architect%20%7C%20System%20Designer%20%7C%20CLI%20Creator&descSize=20&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=FullStack%20Developper&fontSize=50&fontColor=fff&animation=twinkling&desc=Bakend%20Developper%20%7C%20System%20Designer%20%7C%20CLI%20Creator&descSize=20&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Engineer+%7C+API+Architect;Node.js+%7C+NestJS+%7C+Flutter+Expert;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FullStack+Developper+%7C+Backend+Developper;Node.js+%7C+NestJS+%7C+Flutter+Developper;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,7 +16,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=el-hack&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
   <a href="https://linkedin.com/in/aristide-kamara-49560921b">
-    <img src="https://img.shields.io/badge/LinkedIn-500%2B%20Connections-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1000%2B%20Connections-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 ```typescript
 const aristideKamara: BackendEngineer = {
   name: "Aristide Kamara",
-  role: "Backend Engineer & API Architect",
+  role: "Backend Engineer & Mobile developper",
   location: "Abidjan, Côte d'Ivoire 🇨🇮",
   
   companies: {
@@ -54,6 +54,39 @@ const aristideKamara: BackendEngineer = {
   
   motto: "Backend-first, scalability-focused 🚀"
 };
+```
+
+
+<br><br>
+
+## 💼 Professional Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Timeline
+    
+    2020 : BTS Programming @ Institut Jean Paul II
+         : Foundation in development
+    
+    2022 : Orange Digital Center Abidjan
+         : Application Developer (1 an 1 mois)
+         : Started freelancing journey
+    
+    2023 : Onecall - Mobile App Developer
+         : Mobile development focus (3 mois)
+         : MOBISOFT - Mobile Developer
+         : Flutter specialization (2 ans 2 mois)
+    
+    2024 : WAZA - Software Developer
+         : Remote work France (11 mois)
+         : Full-stack development
+    
+    2025 : BUI CORPORATION - Backend Developer
+         : Current position (7 mois)
+         : Cocody, Abidjan
+         : Continued freelancing (3+ ans)
 ```
 
 <br><br>
@@ -127,76 +160,7 @@ A powerful command-line interface for generating NestJS boilerplate code and pro
 
 </div>
 
-<br>
-
-## 💼 Professional Journey
-
-<div align="center">
-
-```mermaid
-timeline
-    title Career Timeline
-    
-    2020 : BTS Programming @ Institut Jean Paul II
-         : Foundation in development
-    
-    2022 : Orange Digital Center Abidjan
-         : Application Developer (1 an 1 mois)
-         : Started freelancing journey
-    
-    2023 : Onecall - Mobile App Developer
-         : Mobile development focus (3 mois)
-         : MOBISOFT - Mobile Developer
-         : Flutter specialization (2 ans 2 mois)
-    
-    2024 : WAZA - Software Developer
-         : Remote work France (11 mois)
-         : Full-stack development
-    
-    2025 : BUI CORPORATION - Backend Developer
-         : Current position (7 mois)
-         : Cocody, Abidjan
-         : Continued freelancing (3+ ans)
-```
-
 </div>
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-### 🏢 **Current Positions**
-**🔹 Backend Developer** @ **BUI CORPORATION**  
-*février 2025 - Present*  
-📍 Cocody, Abidjan, Côte d'Ivoire
-
-**🔹 Freelancer** @ **Self Employed**  
-*février 2022 - Present (3+ years)*  
-📍 Remote & Local projects
-
-</td>
-<td valign="top" width="50%">
-
-### 📈 **Recent Experience**
-**🔹 Software Developer** @ **WAZA**  
-*juin 2024 - avril 2025 (11 mois)*  
-📍 France (Remote)
-
-**🔹 Mobile Developer** @ **MOBISOFT**  
-*mars 2023 - avril 2025 (2 ans 2 mois)*  
-📍 Cocody, Angré
-
-</td>
-</tr>
-</table>
-
-### 🎓 **Previous Experience & Education**
-
-| Poste | Entreprise | Période | Lieu |
-|:------|:-----------|:--------|:-----|
-| **Mobile App Developer** | Onecall | jan 2023 - mars 2023 | Abidjan, CI |
-| **Application Developer** | Orange Digital Center | jan 2022 - jan 2023 | Abidjan, CI |
-| **BTS Programming** | Institut Jean Paul II | jan 2020 - sep 2022 | Côte d'Ivoire |
 
 </div>
 

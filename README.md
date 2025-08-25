@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Aristide Kamara
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=twinkling&desc=Mobile%20%7C%20Web%20%7C%20Backend%20Expert&descSize=20&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Backend%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&desc=API%20Architect%20%7C%20System%20Designer%20%7C%20CLI%20Creator&descSize=20&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Flutter+%7C+React.js+%7C+Node.js+Expert;Building+Amazing+Mobile+Experiences;Based+in+Abidjan%2C+Côte+d'Ivoire+🇨🇮)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Engineer+%7C+API+Architect;Node.js+%7C+NestJS+%7C+Flutter+Expert;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
   
 </div>
 
@@ -27,52 +27,69 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const aristideKamara: Developer = {
+const aristideKamara: BackendEngineer = {
   name: "Aristide Kamara",
-  role: "Full Stack Web & Mobile Developer",
+  role: "Backend Engineer & API Architect",
   location: "Abidjan, Côte d'Ivoire 🇨🇮",
   
   companies: {
-    current: ["MOBISOFT", "WAZA"],
-    positions: ["Mobile Developer", "Software Developer"]
+    current: ["BUI CORPORATION", "Self Employed"],
+    positions: ["Backend Developer", "Freelancer"]
   },
   
-  specialties: ["Flutter", "React.js", "Node.js"],
-  focus: ["Mobile Apps", "Backend APIs", "Web Development"],
-  experience: "3+ years",
+  specialties: ["Node.js", "NestJS", "API Design", "System Architecture"],
+  secondary: ["Flutter", "React.js", "Next.js"],
+  focus: ["Backend Systems", "RESTful APIs", "Microservices", "CLI Tools"],
+  experience: "4+ years",
+  education: "BTS Programming (2020-2022)",
   
-  workingOn: "Scalable mobile applications",
-  learning: ["Cloud Architecture", "Microservices"],
-  collaborating: "Open to mobile & web projects",
+  projects: {
+    cli: "NestGen CLI - Code generation tool",
+    focus: "Scalable backend architectures"
+  },
   
-  motto: "Mobile-first, backend-strong 💪"
+  workingOn: "Enterprise-grade backend systems",
+  learning: ["Cloud Architecture", "DevOps", "System Design"],
+  collaborating: "Open to backend & architecture projects",
+  
+  motto: "Backend-first, scalability-focused 🚀"
 };
 ```
 
 <br><br>
 
+## 🛠️ Featured Projects
+
+<div align="center">
+  <a href="https://nestgen-cli.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️%20NestGen%20CLI-Live%20Demo-00D9FF?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010" alt="NestGen CLI" />
+  </a>
+</div>
+
+### 🔥 **NestGen CLI** - Code Generation Tool
+A powerful command-line interface for generating NestJS boilerplate code and project structures. Built to accelerate backend development workflow.
+
+**🔗 [Visit NestGen CLI](https://nestgen-cli.vercel.app/)**
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Stack" />
-</p>
-
 ### 🚀 Backend & APIs  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend Stack" />
-</p>
-
-### 🌐 Frontend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgresql,redis" alt="Backend Stack" />
 </p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,figma,postman" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman,nginx" alt="DevOps Stack" />
+</p>
+
+### 📱 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,js,ts,dart" alt="Frontend Stack" />
 </p>
 
 </div>
@@ -120,24 +137,66 @@ const aristideKamara: Developer = {
 timeline
     title Career Timeline
     
-    2021 : Started coding journey
-         : Self-taught development
+    2020 : BTS Programming @ Institut Jean Paul II
+         : Foundation in development
     
-    2022 : First freelance projects
-         : Web development focus
+    2022 : Orange Digital Center Abidjan
+         : Application Developer (1 an 1 mois)
+         : Started freelancing journey
     
-    2023 : Mobile Developer @ MOBISOFT
-         : Flutter specialization
-         : Cocody, Angré location
+    2023 : Onecall - Mobile App Developer
+         : Mobile development focus (3 mois)
+         : MOBISOFT - Mobile Developer
+         : Flutter specialization (2 ans 2 mois)
     
-    2024 : Software Developer @ WAZA
-         : Remote work (France)
+    2024 : WAZA - Software Developer
+         : Remote work France (11 mois)
          : Full-stack development
     
-    2025 : Expanding expertise
-         : Cloud & microservices
-         : Open source contributions
+    2025 : BUI CORPORATION - Backend Developer
+         : Current position (7 mois)
+         : Cocody, Abidjan
+         : Continued freelancing (3+ ans)
 ```
+
+</div>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+### 🏢 **Current Positions**
+**🔹 Backend Developer** @ **BUI CORPORATION**  
+*février 2025 - Present*  
+📍 Cocody, Abidjan, Côte d'Ivoire
+
+**🔹 Freelancer** @ **Self Employed**  
+*février 2022 - Present (3+ years)*  
+📍 Remote & Local projects
+
+</td>
+<td valign="top" width="50%">
+
+### 📈 **Recent Experience**
+**🔹 Software Developer** @ **WAZA**  
+*juin 2024 - avril 2025 (11 mois)*  
+📍 France (Remote)
+
+**🔹 Mobile Developer** @ **MOBISOFT**  
+*mars 2023 - avril 2025 (2 ans 2 mois)*  
+📍 Cocody, Angré
+
+</td>
+</tr>
+</table>
+
+### 🎓 **Previous Experience & Education**
+
+| Poste | Entreprise | Période | Lieu |
+|:------|:-----------|:--------|:-----|
+| **Mobile App Developer** | Onecall | jan 2023 - mars 2023 | Abidjan, CI |
+| **Application Developer** | Orange Digital Center | jan 2022 - jan 2023 | Abidjan, CI |
+| **BTS Programming** | Institut Jean Paul II | jan 2020 - sep 2022 | Côte d'Ivoire |
 
 </div>
 
@@ -150,19 +209,19 @@ timeline
 <td valign="top" width="50%">
 
 ### 🔭 Working On
-- **Flutter mobile apps** with advanced features
-- **Node.js microservices** architecture  
-- **React.js** web applications
-- Performance optimization projects
+- **Enterprise backend APIs** with Node.js & NestJS
+- **Scalable system architectures** and microservices
+- **NestGen CLI** - Advanced code generation tool
+- **Database optimization** and performance tuning
 
 </td>
 <td valign="top" width="50%">
 
 ### 🌱 Learning
-- **Cloud architecture** (AWS, GCP)
-- **DevOps practices** & CI/CD
-- **Microservices** patterns
-- **Advanced Flutter** animations
+- **System Design** & Architecture patterns
+- **Cloud-native** development (AWS, Docker)
+- **DevOps** practices & CI/CD pipelines
+- **High-performance** database strategies
 
 </td>
 </tr>
@@ -174,11 +233,11 @@ timeline
 
 <!--START_SECTION:waka-->
 ```text
-Dart         ██████████████████████▓░░   42.8% 
-JavaScript   ████████████████████░░░░░   35.6% 
-TypeScript   █████████░░░░░░░░░░░░░░░░   12.1% 
-JSON         █████░░░░░░░░░░░░░░░░░░░░    6.3% 
-YAML         ██░░░░░░░░░░░░░░░░░░░░░░░    3.2%
+TypeScript   ██████████████████████▓░░   45.8% 
+JavaScript   ████████████████████░░░░░   32.4% 
+Dart         █████████░░░░░░░░░░░░░░░░   15.1% 
+JSON         ████░░░░░░░░░░░░░░░░░░░░░    4.2% 
+YAML         ██░░░░░░░░░░░░░░░░░░░░░░░    2.5%
 ```
 <!--END_SECTION:waka-->
 
@@ -205,7 +264,7 @@ YAML         ██░░░░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-### 💬 Ask me about Flutter, Node.js, React.js, or mobile app optimization!
+### 💬 Ask me about Node.js, NestJS, API architecture, or system design!
 
 </div>
 
